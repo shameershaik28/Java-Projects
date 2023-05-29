@@ -13,7 +13,7 @@ public class Main {
         int stepSix= stepFive/6;
 
 
-        System.out.println(stepSix);
+        System.out.println(stepSix); //prints--->3 Now, go back to your code and change myNumber to any other integer. Run your program again. Is the output the same? It’s math magic!
 
     }
 }
